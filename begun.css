@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.orange {
+    color: orange;
+    padding-left: 65%;
+}
+
+section {
+    display: flex;
+}
+
+.linkmetting {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    color: whitesmoke;
+    border-radius: 5px;
+    font-weight: 700;
+
+}
+
+.choto {
+    width: 10px;
+
+
+    border-color: blue;
+}
+
+.top {
+    background-image: url(bagina/background.jpg);
+    // background-repeat: no-repeat;
+}
